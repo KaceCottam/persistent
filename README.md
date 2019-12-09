@@ -3,17 +3,26 @@ Kace Cottam
 Persistent Implementation of Data Structures
 ============================================
 
+Persistent Data Structures. Making this in order to study functional behavior and recursion.
+
+
+Contributing
+------------
+
+Thanks to Catch2 for their testing suite.
+
+Contents
+--------
+
 [list](list/) -- Implementation of a forward list with a forward-only iterator.
 
 Building
 --------
 
-Example `make` command:
+Example `make` usage:
 
 ``` bash
 $ make
-```
-```
 usage: make [target] ... [<optional argument>=<value> ...]
 ----------------------------------------------------------
 targets:
