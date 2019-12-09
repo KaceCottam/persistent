@@ -3,7 +3,7 @@ Kace Cottam
 Persistent Implementation of Data Structures
 ============================================
 
-Persistent Data Structures. Making this in order to study functional behavior and recursion.
+Type-Safe, Persistent Data Structures. Making this in order to study functional behavior and recursion.
 
 
 Contributing
