@@ -1,0 +1,4 @@
+build/
+include/
+.clang-format
+bin/

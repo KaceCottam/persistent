@@ -1,0 +1,20 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Werror",
+            "-Iinclude",
+            "build/list.o",
+            "-o",
+            "bin/tests/list",
+            "tests/list.cxx"
+        ],
+        "directory": "/home/kace/Dev/research/persistent/list",
+        "file": "tests/list.cxx"
+    }
+]
