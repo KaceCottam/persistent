@@ -10,9 +10,10 @@ Building
 
 Example `make` command:
 
-```bash
-make
-
+``` bash
+$ make
+```
+```
 usage: make [target] ... [<optional argument>=<value> ...]
 ----------------------------------------------------------
 targets:
