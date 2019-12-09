@@ -21,7 +21,7 @@ Building
 
 Example `make` usage:
 
-``` bash
+```
 $ make
 usage: make [target] ... [<optional argument>=<value> ...]
 ----------------------------------------------------------
