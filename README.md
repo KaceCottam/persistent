@@ -1,12 +1,14 @@
 Kace Cottam  
 
 Persistent Implementation of Data Structures
---------------------------------------------
+============================================
 
 [list](list/) -- Implementation of a forward list with a forward-only iterator.
 
 Building
-========
+--------
+
+Example `make` command:
 
 ```bash
 make
